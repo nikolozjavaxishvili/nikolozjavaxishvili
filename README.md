@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @nikolozjavaxishvili
-- 👀 I’m interested in codeing
-- 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me javaxa.1793@gamil.com 
 
