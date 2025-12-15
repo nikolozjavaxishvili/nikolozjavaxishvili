@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @nikolozjavaxishvili
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me javaxa.1793@gamil.com 
+# SimpleAuth API
 
-<!---
-nikolozjavaxishvili/nikolozjavaxishvili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A beginner-friendly ASP.NET Core Web API demonstrating JWT authentication,
+clean architecture, and best practices.
+
+## Features
+- User registration & login
+- JWT authentication
+- Role-based authorization
+- Global error handling
+
+## Tech Stack
+- ASP.NET Core
+- Entity Framework Core
+- SQLite
+- JWT
+
+## Getting Started
+1. Clone the repo
+2. Run `dotnet restore`
+3. Run `dotnet run`
+
+## What I Learned
+- How JWT works
+- Structuring APIs cleanly
+- Handling errors properly
+
+
+
+
+
+
+- 📫 How to reach me javaxa.1793@gamil.com 
