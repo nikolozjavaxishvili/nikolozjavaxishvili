@@ -1,9 +1,7 @@
 Backend developer • ASP.NET Core & APIs
-Building projects and learning in public
+Building projects and learning
 # SimpleAuth API
 
-A beginner-friendly ASP.NET Core Web API demonstrating JWT authentication,
-clean architecture, and best practices.
 
 ## Features
 - User registration & login
